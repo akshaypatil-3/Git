@@ -31,3 +31,21 @@ if a centralized repository gets destroyed or data loss in such case complete or
 ![distributed verion control system](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Distributed-Version-Control-System-Workflow-What-Is-Git-Edureka-768x508.png)
 
 >but in the case of git there is no need to connect every time with a remote repository. we are only connected to remote repositories while at the time to sincup local and remote repository. If a remote repository gets destroyed in such a case we can retrieve the remote repository by local repository because the local repository maintains its own version with only a small amount of data loss.
+---
+### Git Workflow
+---
+![git work flow](https://programmer.group/images/article/43e5d1ea2a2e9380b7eb5294bbe7e77e.jpg)
+
+> ***Remote repository*** → remotely stored.
+> 
+>***Local Repository*** →    exact copy of the remote repository which is placed on the local system.
+
+>***Workspace*** →    It is your working directory.
+
+>***Staging*** →   It is a buffer area used to store the changes before storing into a local repository.
+
+### ***Workflow*** --> 
+---
+> we are working on a workspace then adding files to the staging area.
+after adding several changes into the staging area then those files commit or save the changes in the local repository.
+After storing into a local repository then store the data in a remote repository.
