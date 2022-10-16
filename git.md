@@ -1,12 +1,16 @@
+
 ### What is Git 
 -----------------------------------------------
+![distributed verion control system](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Distributed-Version-Control-System-Workflow-What-Is-Git-Edureka-768x508.png)
 > Git is an open source Distributed version control system. It is a three way process that contains workspace, local repository and remote repository.
 
 >We are working on a workspace after complete work commits changes into the local repository.
 local repository is an exact copy of remote repository which is placed on the local system. the local repository maintains its own version.
 
 >For the remote repository we are using GitHub and GitLab to store the source code & it provides the centralized store.
+
 ----
+
 
 ### Why we need Git?
 ---------------------------------
@@ -18,6 +22,8 @@ local repository is an exact copy of remote repository which is placed on the lo
 
 ### What makes git unique from other tools like SVN?
 ---
+![cetralize version control system](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka-768x339.png)
+
 >Subversion it is open source centralized version control system
 It is a two way process that contains a remote repository and working copy which is present on the local system.
 We work on a workstation and we need to connect with remote repositories continuously with the internet or network while working.
