@@ -1,7 +1,6 @@
 
 ### What is Git 
 -----------------------------------------------
-![distributed verion control system](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Distributed-Version-Control-System-Workflow-What-Is-Git-Edureka-768x508.png)
 > Git is an open source Distributed version control system. It is a three way process that contains workspace, local repository and remote repository.
 
 >We are working on a workspace after complete work commits changes into the local repository.
@@ -29,5 +28,6 @@ It is a two way process that contains a remote repository and working copy which
 We work on a workstation and we need to connect with remote repositories continuously with the internet or network while working.
 if a centralized repository gets destroyed or data loss in such case complete or single point of failure and never retry data of server.
 
+![distributed verion control system](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Distributed-Version-Control-System-Workflow-What-Is-Git-Edureka-768x508.png)
 
 >but in the case of git there is no need to connect every time with a remote repository. we are only connected to remote repositories while at the time to sincup local and remote repository. If a remote repository gets destroyed in such a case we can retrieve the remote repository by local repository because the local repository maintains its own version with only a small amount of data loss.
