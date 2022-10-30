@@ -1,7 +1,7 @@
 
 ### What is Git 
 -----------------------------------------------
-> Git is an open source Distributed version control system. It is a three way process that contains workspace, local repository and remote repository.
+> Git is an open source Distributed version control system. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development. It is a three way process that contains workspace, local repository and remote repository.
 
 >We are working on a workspace after complete work commits changes into the local repository.
 local repository is an exact copy of remote repository which is placed on the local system. the local repository maintains its own version.
